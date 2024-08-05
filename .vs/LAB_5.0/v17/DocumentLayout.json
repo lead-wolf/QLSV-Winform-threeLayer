@@ -1,0 +1,124 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\thieu\\source\\repos\\LAB_5.0\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B401A7E-51BC-491E-ADDF-AEB96676D130}|LAB_5.0.GUI\\LAB_5.0.GUI.csproj|c:\\users\\thieu\\source\\repos\\lab_5.0\\lab_5.0.gui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3B401A7E-51BC-491E-ADDF-AEB96676D130}|LAB_5.0.GUI\\LAB_5.0.GUI.csproj|solutionrelative:lab_5.0.gui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B401A7E-51BC-491E-ADDF-AEB96676D130}|LAB_5.0.GUI\\LAB_5.0.GUI.csproj|C:\\Users\\thieu\\source\\repos\\LAB_5.0\\lab_5.0.gui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B401A7E-51BC-491E-ADDF-AEB96676D130}|LAB_5.0.GUI\\LAB_5.0.GUI.csproj|solutionrelative:lab_5.0.gui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B401A7E-51BC-491E-ADDF-AEB96676D130}|LAB_5.0.GUI\\LAB_5.0.GUI.csproj|C:\\Users\\thieu\\source\\repos\\LAB_5.0\\lab_5.0.gui\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B401A7E-51BC-491E-ADDF-AEB96676D130}|LAB_5.0.GUI\\LAB_5.0.GUI.csproj|solutionrelative:lab_5.0.gui\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5360AEA0-6A78-40F0-9F18-7D0A231FA6D2}|LAB_5.0.BUS\\LAB_5.0.BUS.csproj|C:\\Users\\thieu\\source\\repos\\LAB_5.0\\lab_5.0.bus\\facultyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5360AEA0-6A78-40F0-9F18-7D0A231FA6D2}|LAB_5.0.BUS\\LAB_5.0.BUS.csproj|solutionrelative:lab_5.0.bus\\facultyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5360AEA0-6A78-40F0-9F18-7D0A231FA6D2}|LAB_5.0.BUS\\LAB_5.0.BUS.csproj|C:\\Users\\thieu\\source\\repos\\LAB_5.0\\lab_5.0.bus\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5360AEA0-6A78-40F0-9F18-7D0A231FA6D2}|LAB_5.0.BUS\\LAB_5.0.BUS.csproj|solutionrelative:lab_5.0.bus\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5360AEA0-6A78-40F0-9F18-7D0A231FA6D2}|LAB_5.0.BUS\\LAB_5.0.BUS.csproj|C:\\Users\\thieu\\source\\repos\\LAB_5.0\\lab_5.0.bus\\majorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5360AEA0-6A78-40F0-9F18-7D0A231FA6D2}|LAB_5.0.BUS\\LAB_5.0.BUS.csproj|solutionrelative:lab_5.0.bus\\majorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\thieu\\source\\repos\\LAB_5.0\\LAB_5.0.GUI\\Form1.cs",
+              "RelativeDocumentMoniker": "LAB_5.0.GUI\\Form1.cs",
+              "ToolTip": "C:\\Users\\thieu\\source\\repos\\LAB_5.0\\LAB_5.0.GUI\\Form1.cs [Design]",
+              "RelativeToolTip": "LAB_5.0.GUI\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T03:47:25.307Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\thieu\\source\\repos\\LAB_5.0\\LAB_5.0.GUI\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "LAB_5.0.GUI\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\thieu\\source\\repos\\LAB_5.0\\LAB_5.0.GUI\\Form1.Designer.cs",
+              "RelativeToolTip": "LAB_5.0.GUI\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T03:46:42.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MajorService.cs",
+              "DocumentMoniker": "C:\\Users\\thieu\\source\\repos\\LAB_5.0\\LAB_5.0.BUS\\MajorService.cs",
+              "RelativeDocumentMoniker": "LAB_5.0.BUS\\MajorService.cs",
+              "ToolTip": "C:\\Users\\thieu\\source\\repos\\LAB_5.0\\LAB_5.0.BUS\\MajorService.cs",
+              "RelativeToolTip": "LAB_5.0.BUS\\MajorService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T00:28:50.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\thieu\\source\\repos\\LAB_5.0\\LAB_5.0.BUS\\StudentService.cs",
+              "RelativeDocumentMoniker": "LAB_5.0.BUS\\StudentService.cs",
+              "ToolTip": "C:\\Users\\thieu\\source\\repos\\LAB_5.0\\LAB_5.0.BUS\\StudentService.cs",
+              "RelativeToolTip": "LAB_5.0.BUS\\StudentService.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAnwD8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T14:30:47.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FacultyService.cs",
+              "DocumentMoniker": "C:\\Users\\thieu\\source\\repos\\LAB_5.0\\LAB_5.0.BUS\\FacultyService.cs",
+              "RelativeDocumentMoniker": "LAB_5.0.BUS\\FacultyService.cs",
+              "ToolTip": "C:\\Users\\thieu\\source\\repos\\LAB_5.0\\LAB_5.0.BUS\\FacultyService.cs",
+              "RelativeToolTip": "LAB_5.0.BUS\\FacultyService.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAA1wCYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T13:55:05.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\thieu\\source\\repos\\LAB_5.0\\LAB_5.0.GUI\\Form1.cs",
+              "RelativeDocumentMoniker": "LAB_5.0.GUI\\Form1.cs",
+              "ToolTip": "C:\\Users\\thieu\\source\\repos\\LAB_5.0\\LAB_5.0.GUI\\Form1.cs",
+              "RelativeToolTip": "LAB_5.0.GUI\\Form1.cs",
+              "ViewState": "AQIAAHUAAAAAAAAAAAAgwI8AAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T07:44:29.253Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\thieu\source\repos\LAB_5.0\LAB_5.0.BUS\bin\Debug\LAB_5.0.BUS.dll.config
+C:\Users\thieu\source\repos\LAB_5.0\LAB_5.0.BUS\bin\Debug\LAB_5.0.BUS.dll
+C:\Users\thieu\source\repos\LAB_5.0\LAB_5.0.BUS\bin\Debug\LAB_5.0.BUS.pdb
+C:\Users\thieu\source\repos\LAB_5.0\LAB_5.0.BUS\bin\Debug\DAL.dll
+C:\Users\thieu\source\repos\LAB_5.0\LAB_5.0.BUS\bin\Debug\EntityFramework.dll
+C:\Users\thieu\source\repos\LAB_5.0\LAB_5.0.BUS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\thieu\source\repos\LAB_5.0\LAB_5.0.BUS\bin\Debug\DAL.pdb
+C:\Users\thieu\source\repos\LAB_5.0\LAB_5.0.BUS\bin\Debug\DAL.dll.config
+C:\Users\thieu\source\repos\LAB_5.0\LAB_5.0.BUS\bin\Debug\EntityFramework.xml
+C:\Users\thieu\source\repos\LAB_5.0\LAB_5.0.BUS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\thieu\source\repos\LAB_5.0\LAB_5.0.BUS\obj\Debug\LAB_5.0.BUS.csproj.AssemblyReference.cache
+C:\Users\thieu\source\repos\LAB_5.0\LAB_5.0.BUS\obj\Debug\LAB_5.0.BUS.csproj.CoreCompileInputs.cache
+C:\Users\thieu\source\repos\LAB_5.0\LAB_5.0.BUS\obj\Debug\LAB_5.0..2E989658.Up2Date
+C:\Users\thieu\source\repos\LAB_5.0\LAB_5.0.BUS\obj\Debug\LAB_5.0.BUS.dll
+C:\Users\thieu\source\repos\LAB_5.0\LAB_5.0.BUS\obj\Debug\LAB_5.0.BUS.pdb
